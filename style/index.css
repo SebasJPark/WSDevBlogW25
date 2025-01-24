@@ -1,0 +1,20 @@
+/* ======================= EECS 493 Assignment 2 Starter Code ======================= */
+
+/* Main Containers */
+body, button {
+  font-family: VT323;
+}
+button {
+  font-size: xx-large;
+  width: 200px;
+  height: 100px;
+  background-color: darkslateblue;
+  color: white;
+}
+
+.outer-container {
+  height: 720px;
+  width: 1280px;
+  background: #eee;
+  border: 5px solid gainsboro;
+}
